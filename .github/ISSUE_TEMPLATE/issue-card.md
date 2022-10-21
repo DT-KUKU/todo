@@ -1,9 +1,9 @@
 ---
 name: issue Card
 about: issue Card
-title: ''
-labels: ''
-assignees: ''
+title: 오류를 적어주세요
+labels: Front
+assignees: DT-KUKU
 
 ---
 
